@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "locale": "English_United States.1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.10.11",
+    "package_manager": {
+      "name": "pip",
+      "version": "24.0",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "5e6738f473f8ee240438ad7b0b87fff8"
+    },
+    "Icon1.jpg": {
+      "checksum": "824ad0f183a80ec029170789bc11f022"
+    },
+    "IncomeStatements.py": {
+      "checksum": "51ec42eb1634614d0efef013cca72868"
+    },
+    "StaticStrings.py": {
+      "checksum": "888238706c7a9dff55aee69f3a598db3"
+    },
+    "app.py": {
+      "checksum": "bb534fd53242c15ea8129cdce1315585"
+    }
+  }
+}
